@@ -4,7 +4,7 @@
 那么何为``Hash``，又何为``Map``呢？
 
 ### Hash
-之前写过一篇关于Hash的文章 [Hash](/zh-cn/java/data-structure/hash.md)
+之前写过一篇关于Hash的文章 [Hash](/docs/zh-cn/java/data-structure/hash.md)
 
 ### Map
 Map是一种``K-V``形式的数据结构，一个唯一的key，会唯一对应一个value。也就是说，在Map容器里不允许两个一模一样的key。
